@@ -61,3 +61,5 @@ src/config.js
 .vscode
 .DS_Store
 .env
+.env.local
+.next
