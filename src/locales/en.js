@@ -34,7 +34,7 @@ export default {
 
     subtitle: 'This is where PeerNote comes into the picture!',
     paragraph3:
-      'We are a platform where students over the world can share and leave their knowledge to be appreciated by the future generations',
+      'We are a platform where students all over the world can share and leave their knowledge to be appreciated by the future generations',
 
     howItWorks: 'How it works:',
 

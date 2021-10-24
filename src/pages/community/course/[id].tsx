@@ -54,14 +54,12 @@ type CreateMaterialData = {
 };
 
 type CurrentUserData = {
-  id: string;
   name: string;
   avatar_url: string;
   id: number;
 };
 
 type SingleCourseData = {
-  id: string;
   image: string;
   name: string;
   description: string;

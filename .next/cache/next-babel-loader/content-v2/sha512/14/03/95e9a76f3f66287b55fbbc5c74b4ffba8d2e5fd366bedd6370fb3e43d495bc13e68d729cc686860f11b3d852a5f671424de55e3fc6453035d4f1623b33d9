@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useRouter } from 'next/router';\nimport en from '../../locales/en.js';\nexport default function useLocale() {\n  var router = useRouter();\n  var locale = router.locale;\n  var t = locale === 'en' ? en : en;\n  return t;\n}","map":null,"metadata":{},"sourceType":"module"}

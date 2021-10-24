@@ -25,7 +25,6 @@ import { NotFound } from '../../../components/NotFound';
 import { api } from '../../../services/api';
 
 type CurrentUserData = {
-  id: string;
   name: string;
   avatar_url: string;
   id: number;
