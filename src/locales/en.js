@@ -53,23 +53,23 @@ export default {
     greeting: 'Hi',
     yourLibrary: 'Your Library',
 
-    likedCourses: 'liked Courses',
-    likedMaterials: 'liked Materials',
+    likedCourses: 'Liked Courses',
+    likedMaterials: 'Liked Resources',
   },
 
   communityPage: {
     community: 'Community',
     latestCourses: 'Latest Course Topics',
-    topLiked: 'Top Liked Topics',
+    topLiked: 'Most Liked Topics',
 
     form: {
       newCourse: 'New Topic/Course',
       courseName: 'Course Name',
-      courseNameEx: 'Ex: MIT | Undergraduate Degree | Computer Science',
+      courseNameEx: 'Ex: MIT | Introduction to Algorithms',
       courseDescription: 'Course Description',
-      courseUrl: 'Paste here the image URL',
+      courseUrl: 'Paste the image URL here',
       tags: 'Tags',
-      tagsEx: 'Ex: mit, indergratuate degree , computer science',
+      tagsEx: 'Ex: computer science, javascript, web development',
 
       closeButton: 'Close',
       createButton: 'Create',
