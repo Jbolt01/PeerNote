@@ -18,6 +18,7 @@ export default class MyDocument extends Document {
             href="/assets/favicon.png"
             type="image/png"
           />
+          <script async defer data-website-id="336ace5b-04c9-4992-9e97-3cdacbeb428c" src="https://umami.vijayrs.com/umami.js"></script>
         </Head>
         <body>
           <Main />
