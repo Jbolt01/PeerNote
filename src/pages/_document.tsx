@@ -19,6 +19,7 @@ export default class MyDocument extends Document {
             type="image/png"
           />
           <script async defer data-website-id="336ace5b-04c9-4992-9e97-3cdacbeb428c" src="https://umami.vijayrs.com/umami.js"></script>
+          <script defer data-domain="peernote.co" src="https://plausible.vijayrs.com/js/plausible.js"></script>
         </Head>
         <body>
           <Main />
